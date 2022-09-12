@@ -1,0 +1,28 @@
+h1{
+    font-family: arial;
+    font-size: 50px;
+    background-color:lightgreen;
+    border: 1px solid black;
+    margin: 25px 50px 75px 100px;
+    text-align: center;
+}
+h2{
+    background-color:lawngreen;
+    font-size:150%;
+    text-align:center;
+}
+img{
+    width="20%";
+    display:block; 
+    margin:auto;
+    border=3;
+
+}
+p{
+    background-color:lightgreen;
+    border: 1px solid black;
+    margin: 25px 50px 75px 100px;
+}
+body {
+    background-image: url("https://i.pinimg.com/564x/3f/03/c8/3f03c8536a94f9f020cab74b6e2a9ffd.jpg");
+}
