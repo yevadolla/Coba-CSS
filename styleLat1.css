@@ -36,3 +36,52 @@ p{
 body {
     background-image: url("https://i.pinimg.com/564x/3f/03/c8/3f03c8536a94f9f020cab74b6e2a9ffd.jpg");
 }
+load {
+    background-color: rgb(241, 241, 241);
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    line-height: 18px;
+        }
+progress {
+    background-color: #28d2c1 !important;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0) !important;
+    text-align: center;
+    line-height: 18px;
+    font-size: 12px;
+            
+        }
+load2 {
+    background-color: rgb(241, 241, 241);
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    line-height: 18px;
+        }
+        
+progress2 {
+    background-color:  #14afa0 !important;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    line-height: 18px;
+    color:  rgb(0, 0, 0) !important;
+    text-align: center;
+        }
